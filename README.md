@@ -10,15 +10,38 @@ $ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+# Vans for Rent
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Vans for Rent is a web application that allows users to list their vans for rent. It provides a platform for van owners to connect with potential renters.
+
+## Features
+
+- Users can sign up and create an account.
+- Van owners can add their vans to the platform and provide details such as availability, location, and pricing.
+- Renters can browse through available vans and request to rent a specific van.
+- Users can review and rate each other based on their rental experience.
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/StephtheITSloth/vans-for-rent.git
+Install the necessary dependencies:
+npm install
+Start the development server:
+npm start
+Access the application at http://localhost:3000 in your web browser.
+Technologies Used
+React.js: A JavaScript library for building user interfaces.
+Mirage JS: Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application.
+HTML, CSS, and JavaScript: The fundamental web development technologies.
+Contributing
+Contributions are welcome! If you have any suggestions or find any issues, please create a GitHub issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
 
 Happy Coding!
 # vans-for-rent
